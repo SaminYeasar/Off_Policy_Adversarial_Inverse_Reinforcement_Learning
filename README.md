@@ -49,7 +49,7 @@ Description of different arguments are following:
 *    **Policy options** `SAC`, `SAC_MCP`(k=8 premitive policies), `SAC_MCP2` (k=4 premitive policies)
 
 
-
+![](https://imgur.com/ljK0XeB.png)
 
 ---
 ## Compute Transfer Learning:
