@@ -90,37 +90,4 @@ Description of different arguments are following:
         *   if not flagged, retrain only `gating function`
 
 
-
-### Results:
-
-```
-
-
-Plot.ipynb : iPython Notebook that plots the figures discussed in Paper
-
-
-Results |- AIRL |- SAC - |-learn_temp_true
-                |        |- learn_temp_false
-                |         
-                |- SAC_MCP |-learn_temp_true
-                |          |- learn_temp_false
-                |             
-                |- SAC_MCP2  |-learn_temp_true
-                             |- learn_temp_false
-
-        |- AIRL_Retrain |- SAC |-learn_temp_true
-                        |      |- learn_temp_false
-                        | 
-                        |- SAC_MCP |-learn_temp_true
-                        |          |- learn_temp_false
-                        |     
-                        |- SAC_MCP2  |-learn_temp_true
-                                     |- learn_temp_false
-                                     
-        |- Expert Data |- Expert Trajectory: Collected expert trajcetory to be used in training imitation task
-                       |- Training_data: Data collected during training SAC, TD3 using environment rewards
-                       
-        |- DAC:  Contains data from DAC implementation
-    
-
 ```
