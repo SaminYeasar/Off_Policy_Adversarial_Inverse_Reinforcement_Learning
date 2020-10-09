@@ -1,4 +1,4 @@
-# Off_Policy_AIRL
+# Off Policy Adversarial Inverse Reinforcement Learning (off-policy-AIRL)
 
 
 # To run Custom environments
