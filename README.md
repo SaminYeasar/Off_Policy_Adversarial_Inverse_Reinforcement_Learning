@@ -1,5 +1,20 @@
 # Off Policy Adversarial Inverse Reinforcement Learning (off-policy-AIRL)
 
+Source code to accompany [Off Policy Adversarial Inverse Reinforcement Learning](https://openreview.net/forum?id=9mp5d073IhX).
+
+If you use this code for your research, please consider citing the paper:
+
+```
+@article{arnob2020off,
+  title={Off-Policy Adversarial Inverse Reinforcement Learning},
+  author={Arnob, Samin Yeasar},
+  journal={arXiv preprint arXiv:2005.01138},
+  year={2020}
+}
+```
+
+
+
 
 # To run Custom environments
 
