@@ -32,7 +32,7 @@
 ## Compute Imitation performance:
 
 
-##### Transfer learning experiment is computed on Custom environment from (https://github.com/justinjfu/inverse_rl/tree/master/inverse_rl)
+
 ```
 python Train.py --seed 0 \
                 --env_name "HalfCheetah-v2" \
@@ -50,11 +50,12 @@ Description of different arguments are following:
 
 
 ![](https://imgur.com/ljK0XeB.png)
+![](https://imgur.com/BA9jff9.png)
 
 ---
 ## Compute Transfer Learning:
 
-
+##### Transfer learning experiment is computed on Custom environment from (https://github.com/justinjfu/inverse_rl/tree/master/inverse_rl)
 ```
 python ReTrain.py --seed 0 
                 --env_name "DisabledAnt-v0" \
