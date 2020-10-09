@@ -45,7 +45,6 @@ If you use this code for your research, please consider citing the paper:
 ---
 # Download saved data
 * [Expert trajectory](https://drive.google.com/drive/folders/1pqc9nhUdKFymc0hFUj2bL8KB9Mq9lj-p?usp=sharing)
-* [Expert weight](https://drive.google.com/drive/folders/1pqc9nhUdKFymc0hFUj2bL8KB9Mq9lj-p?usp=sharing)
 
 ---
 ## Compute Imitation performance:
